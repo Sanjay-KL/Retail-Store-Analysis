@@ -1,6 +1,9 @@
 We have got request where a Retail store need to analyze the Sales for the Year 2022. So that they can Implement the market strategy accordingly.
-After got the data, have done initial data validation and replaced incorrect data with correct value.
+
+After got the data, have done initial data validation and replaced incorrect data with correct value.y
+
 By using Pivot tables and Pivot Charts created the Dashboard.
+
 Able to provide insights to Stakeholders, so that they can strategize accordingly. Some of Key findings were mentioned below:
 
 Key Insights:
