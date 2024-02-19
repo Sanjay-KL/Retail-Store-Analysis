@@ -1,6 +1,7 @@
 RETAIL-STORE-ANALYSIS:
 
-Technogies Used
+Technogies Used:
+
 . Excel
 
 STEPS:
