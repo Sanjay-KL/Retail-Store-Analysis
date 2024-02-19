@@ -1,21 +1,19 @@
-RETAIL-STORE-ANALYSIS:
+# RETAIL-STORE-ANALYSIS:
 
-Technogies Used:
+# Technogies Used:
 
-. Excel
+1) Excel
 
-STEPS:
+# STEPS:
 
-i) Data subset collected from online source
+i) Collecting data from online (Kaggle).
 
 ii) Data Cleaning and Validation
 
 iii) Data processing and Analysis
 
-We have got request where a Retail store need to analyze the Sales for the Year 2022. So that they can Implement the market strategy accordingly.
 
-
-By using Pivot tables and Pivot Charts created the Dashboard.
+By using Excel function such as Filters, Find and Replace, Pivot tables and Pivot Charts created the dynamic Dashboard.
 
 Able to provide insights to Stakeholders, so that they can strategize accordingly. Some of Key findings were mentioned below:
 
