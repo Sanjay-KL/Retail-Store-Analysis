@@ -7,7 +7,9 @@ Technogies Used:
 STEPS:
 
 i) Data subset collected from online source
+
 ii) Data Cleaning and Validation
+
 iii) Data processing and Analysis
 
 We have got request where a Retail store need to analyze the Sales for the Year 2022. So that they can Implement the market strategy accordingly.
